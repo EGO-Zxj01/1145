@@ -1,15 +1,37 @@
-<!DOCTYPE yaml>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>无用小网站</title>
-</head>
-<body>
-    <p><a href="https://github.com/EGO-Zxj01">👉点击这里👈</a></p>
-    <p>什么都没有</p>
-    <p>什么都没有</p>
-    <p>什么都没有</p>
-    <p>乐</p>
-</body>
+<!DOCTYPE html>
+<html>
+		
+	<head>
+		<meta charset="utf-8" />
+		<title></title>
+	</head>
+	<body>
+<style type="text/css">
+ @import url("css/1.css");
+	
+</style>		
+		<div class="box">
+			<h2> login</h2>
+			<div  class="input-box">
+				<label>账号</label>
+				<input  type="text" />	
+			</div>
+			
+			<div  class="input-box">
+				<label>密码</label>
+				<input  type="password"/>	
+			</div>
+		
+		
+		<div class="btn-box">
+			忘记密码？	
+			
+			<button>登录</button>
+			<button>忘记</button>
+		</div>
+		
+		
+		
+		</div>	
+	</body>
 </html>
